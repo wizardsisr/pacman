@@ -1,0 +1,15 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: pacman
+  description: Tanzu Application Platform - Pacman 
+  tags:
+    - pacman
+    - web
+    - tanzu
+  annotations:
+    'backstage.io/kubernetes-label-selector': 'app.kubernetes.io/part-of=pacman'
+spec:
+  type: service
+  lifecycle: experimental
+  owner: default-team
