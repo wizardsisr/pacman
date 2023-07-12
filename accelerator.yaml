@@ -1,0 +1,8 @@
+accelerator:
+  displayName: Pacman Accelerator
+  description: Node.js Pacman for kubernetes
+  iconUrl: https://raw.githubusercontent.com/egedsoft/pacman/master/depositphotos_620571852-stock-illustration-pac-man-his-enemies-vintage.jpg
+  tags:
+  - simple
+  - getting-started
+  - Node.js
