@@ -13,6 +13,6 @@ spec:
       autoscaling.knative.dev/minScale: "1"
   source:
     git:
-      url: https://github.com/egedsoft/pacman
+      url: https://github.com/wizardsisr/pacman
       ref:
         branch: master
